@@ -1,4 +1,4 @@
-# burnout-3-pcsx2-speedhack
+# Burnout 3 PCSX2 Speedhack
 
 > CHEATS BY UlsterRosé @ PCSX2 Forums
 
